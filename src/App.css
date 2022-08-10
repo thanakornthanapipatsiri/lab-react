@@ -21,6 +21,10 @@
   margin: 1em;
   user-select: none;
  }
+ .activeCard {
+  color: red;
+  background: pink;
+ }
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
