@@ -12,7 +12,7 @@ const prepareStateFromWord = (given_word) => {
     guess: '',
     completed: false
     }
-   }
+    }
    
 
 export default function WordCard(props){
