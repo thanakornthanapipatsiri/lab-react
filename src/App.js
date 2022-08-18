@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import CharacterCard from './Character.Card';
+import CharacterCard from './CharacterCard';
 import WordCard from './WordCard';
 
-const word = "Thanakorn6310110183"
+const word = "Thanakorn"
 function App() {
   return (
     <div>
